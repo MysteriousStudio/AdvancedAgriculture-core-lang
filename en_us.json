@@ -36,7 +36,9 @@
   "block.adv_agri_core.titanium_ore": "Titanium Ore",
   "block.adv_agri_core.tungsten_block": "Tungsten Block",
   "block.adv_agri_core.tungsten_ore": "Tungsten Ore",
-  "block.adv_agri_core.weathered_aluminum_ore": "Weathered Aluminum Ore",
+
+  "block.adv_agri_core.weathered_aluminium_ore": "Weathered Aluminum Ore",
+
   "block.adv_agri_core.weathered_copper_ore": "Weathered Copper Ore",
   "block.adv_agri_core.weathered_high_carbon_iron_ore": "Weathered High Carbon Iron Ore",
   "block.adv_agri_core.weathered_lead_ore": "Weathered Lead Ore",
@@ -49,6 +51,7 @@
   "block.adv_agri_core.zinc_block": "Zinc Block",
   "block.adv_agri_core.zinc_ore": "Zinc Ore",
   "item.adv_agri_core.advanced_power_module": "Advanced Power Module",
+
   "item.adv_agri_core.aluminum_axe": "Aluminum Axe",
   "item.adv_agri_core.aluminum_dissolver": "Alumninium Dissolver",
   "item.adv_agri_core.aluminum_gear": "Aluminum Gear",
@@ -60,6 +63,7 @@
   "item.adv_agri_core.aluminum_shard": "Aluminum Shard",
   "item.adv_agri_core.aluminum_shovel": "Aluminum Shovel",
   "item.adv_agri_core.aluminum_sword": "Aluminum Sword",
+
   "item.adv_agri_core.bamboo_backpack": "Bamboo Backpack*",
   "item.adv_agri_core.bamboo_barrel": "Bamboo Barrel*",
   "item.adv_agri_core.bamboo_baskets": "Basket*",
@@ -245,5 +249,9 @@
   "itemGroup.adv_agri_core.agriculture_tool_and_armors": "AdvancedAgriculture-Tools and Armors",
   "itemGroup.adv_agri_core.agriculture_world": "AdvancedAgriculture-Terrain",
   "ore.adv_agri_core.sulphur_ore.tooltip": "Smells pungent, m-ay explode in a second.",
-  "title.adv_agri_core.advanced_crafting_table": "Advanced Crafting Table"
+
+  "title.adv_agri_core.advanced_crafting_table": "Advanced Crafting Table",
+  "item.adv_agri_core.bamboo_drill_rod": "Drill Stick"
 }
+
+
